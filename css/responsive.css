@@ -75,7 +75,7 @@
     display: none;
   }
 
-  #navbar nav a.menu_icon {
+  #navbar nav a.menu-icon {
     display: block;
     float: right;
     font-size: 1.5em;
